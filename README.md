@@ -12,15 +12,7 @@ G
 G
 G
 h
-H
-H
-H
-H
-G
-H
-H
-H
-H
+
 .
 .
 .
