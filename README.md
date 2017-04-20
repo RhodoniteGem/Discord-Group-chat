@@ -20,8 +20,6 @@
 .
 .
 .
-..
-.
 .
 .
 .
@@ -37,3 +35,4 @@
 .
 .
 .
+https://discordapp.com/api/webhooks/304750171915550730/oiN5V4Y5XFMBJu1h9UJXNJrSYzbng0RvwRLN0hT_avm8r9SgnxBYghkJ8_T59T3Emd0o
